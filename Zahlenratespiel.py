@@ -1,6 +1,6 @@
 import random
 
-geheim = random.randint(1, 100)
+geheim = random.randint(1, 101)
 tipp = 0
 versuche = 0
 max_versuche = 7
